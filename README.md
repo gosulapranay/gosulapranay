@@ -5,7 +5,7 @@
 
 #### Client Side
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black&style=flat-square)
-<!--![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white&style=flat-square)-->
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?&logo=typescript&logoColor=white&style=flat-square)
 ![ReactJS](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB&style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux-593D88?&logo=redux&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white&style=flat-square)
